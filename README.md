@@ -1,10 +1,9 @@
 # M2_Embedded_Heating-System
 Embedded C mini Project
 
-[![cppcheck-action-test](https://github.com/Muskan-Jaiswal-209/M2_Embedded_Heating-System/actions/workflows/cpp%20check.yml/badge.svg)](https://github.com/Muskan-Jaiswal-209/M2_Embedded_Heating-System/actions/workflows/cpp%20check.yml)
-![code score](https://api.codiga.io/project/30199/score/svg)
-![code grade](https://api.codiga.io/project/30199/status/svg)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f7008f21fa86431098cff43db2bd833b)](https://www.codacy.com/gh/Muskan-Jaiswal-209/M2_Embedded_Heating-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Muskan-Jaiswal-209/M2_Embedded_Heating-System&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8538c9c281764c8aa6d175373c02360a)](https://www.codacy.com/gh/shantanushende11/M2_Embedded_Seat_Heater_Sys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=shantanushende11/M2_Embedded_Seat_Heater_Sys&amp;utm_campaign=Badge_Grade)
+![code score](https://api.codiga.io/project/30286/score/svg)
+![code Grade](https://api.codiga.io/project/30286/status/svg)
 
 ## Folder Structure
 Folder               | Description
